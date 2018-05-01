@@ -119,7 +119,8 @@ public class FlappyBird extends ApplicationAdapter {
         }
 
 	    if(estadoJogo ==0 ) { // Não iniciado
-            if (Gdx.input.justTouched()) {
+            if (Gdx.input.justTouched())
+            {
                 estadoJogo = 1;
             }
 
