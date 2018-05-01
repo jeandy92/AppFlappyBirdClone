@@ -85,7 +85,7 @@ public class FlappyBird extends ApplicationAdapter {
         canoTopo = new Texture("cano_topo_maior.png");
         gameOver = new Texture("game_over.png");
 
-        /*************************************
+        /***************************************
          * Configuração da Camera
          *
          */
